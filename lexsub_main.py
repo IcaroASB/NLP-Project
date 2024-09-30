@@ -1,11 +1,12 @@
 #!/usr/bin/env python
+# This code was complete as part of a class project and is not of my full authorship
 import sys
 
 from lexsub_xml import read_lexsub_xml
 from lexsub_xml import Context
 import string
 
-# suggested imports 
+
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize

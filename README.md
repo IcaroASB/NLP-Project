@@ -1,4 +1,4 @@
-This code was complete as part of a class project and is not of my full authorship
+This code was completed as part of a class project and is not of my full authorship.
 
-The focus of this code is using BERT and pre-trained Word2Vec embeddings to find word substituions that keep the context on a given sentence.
+The focus of this assignment was using BERT and pre-trained Word2Vec embeddings to find word substitutions that keep the context of a given sentence.
 
